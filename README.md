@@ -18,13 +18,13 @@ change url in url.txt file which url you required and change the cmt text if you
 
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
-Then enter pip install undetected_chromedriver in cmd and hit enter button (internet connection will be in on)
-
-and enter pip install random in cmd and hit enter button
+Open cmd and enter
+ pip install random 
+ and hit enter button internet connection must be on
 
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
-enter comment.py in cmd on that particular folder or double click on comment.py....
+enter lsc.py in cmd on that particular folder or double click on lsc.py....
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
