@@ -3,6 +3,7 @@ Youtube Auto Like,Subscribe &amp; Comments which logijn youtube through stackove
 
 👉 youtube auto like,sub,cmt 
 https://www.youtube.com/watch?v=BRmMi29x3OU
+(these video for reference using one acc for auto like,sub,cmt muliple accs means after one acc cmts complete its close the tab and open the new tab and do the same process..)
 
 #Replace Email and Pass in 18th & 19th line and also in below code where mail and password asked...
 
