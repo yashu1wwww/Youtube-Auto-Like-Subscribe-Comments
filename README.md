@@ -3,7 +3,10 @@ Youtube Auto Like,Subscribe &amp; Comments which logijn youtube through stackove
 
 👉 youtube auto like,sub,cmt 
 https://www.youtube.com/watch?v=BRmMi29x3OU
+
 (these video for reference using one acc for auto like,sub,cmt muliple accs means after one acc cmts complete its close the tab and open the new tab and do the same process..)
+
+ #when using to login youtube through stackoverflow you must signup to stackoverflow and use that account here(off 2 factor authentication in google my account)
 
 #Replace Email and Pass in 18th & 19th line and also in below code where mail and password asked...
 
