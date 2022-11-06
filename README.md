@@ -2,9 +2,9 @@
 Youtube Auto Like,Subscribe &amp; Comments which logijn youtube through stackoverflow 
 
 👉 youtube auto like,sub,cmt 
+https://www.youtube.com/watch?v=BRmMi29x3OU
 
-
-#Replace Email and Pass in 14th & 15th line and also in 509 and 510 line
+#Replace Email and Pass in 18th & 19th line and also in below code where mail and password asked...
 
 note:-use accounts which dont have 2-factor authentication...
 
