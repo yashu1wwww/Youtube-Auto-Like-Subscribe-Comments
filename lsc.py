@@ -15,10 +15,10 @@ driver = webdriver.Chrome()
 driver.get('https://stackoverflow.com/users/signup') #when using to login youtube through stackoverflow you must signup to stackoverflow and use that account here(off 2 factor authentication in google my account)
 time.sleep(1) 
 driver.find_element_by_xpath('//*[@id="openid-buttons"]/button[1]').click() 
-driver.find_element_by_id('identifierId').send_keys("when123@gmail.com") #replace with your mail which used to signup in stackoverflow(#replace below also where mail line you find..)
+driver.find_element_by_id('identifierId').send_keys("when123@gmail.com") #replace with your mail which used to signup in stackoverflow
 driver.find_element_by_id('identifierNext').click() 
 time.sleep(2) 
-driver.find_element_by_name('password').send_keys("pas2@#$%") #replace with your password which used to signup in stackoverflow(#replace below also where password line you find...)
+driver.find_element_by_name('password').send_keys("pas2@#$%") #replace with your password which used to signup in stackoverflow
 driver.find_element_by_id('passwordNext').click() 
 time.sleep(2)
 driver.get('https://www.youtube.com/') 
