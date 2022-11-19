@@ -11,7 +11,10 @@ After download the folder extract it and open cmd and enter Python If You Find P
 
  Open cmd and enter
  pip install random 
- and hit enter button internet connection must be on...
+ and hit enter button (internet connection must be on...)
+ and again 
+ pip install undetected_chromedriver 
+ and hit enter button (internet connection must be on...)
 
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
