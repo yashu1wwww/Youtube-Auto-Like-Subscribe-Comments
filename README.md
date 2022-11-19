@@ -1,7 +1,7 @@
 # Youtube-Auto-Like-Subscribe-Comments
 Youtube Auto Like,Subscribe & Comments
 
-#Replace Email and Pass in 18th & 21th line...
+#Replace Email and Pass in 14th & 15th line...
 
 note:-use accounts which dont have 2-factor authentication...
 
@@ -9,9 +9,9 @@ change url in url.txt file which url you required and change the cmt text if you
 
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
-Open cmd and enter
+ Open cmd and enter
  pip install random 
- and hit enter button internet connection must be on
+ and hit enter button internet connection must be on...
 
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
