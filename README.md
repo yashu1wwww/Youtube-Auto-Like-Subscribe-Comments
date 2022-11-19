@@ -1,10 +1,5 @@
 # Youtube-Auto-Like-Subscribe-Comments
-Youtube Auto Like,Subscribe &amp; Comments which logijn youtube through stackoverflow 
-
-👉 youtube auto like,sub,cmt 
-https://www.youtube.com/watch?v=BRmMi29x3OU
-
-#when using to login youtube through stackoverflow you must signup to stackoverflow and use that account here(off 2 factor authentication in google my account)
+Youtube Auto Like,Subscribe & Comments
 
 #Replace Email and Pass in 18th & 21th line...
 
