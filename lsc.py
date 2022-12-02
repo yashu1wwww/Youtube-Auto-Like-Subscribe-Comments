@@ -12,7 +12,7 @@ commentsDict = ['good','amazing one','keep going','excellent','next video please
 'what a video man','watched yesterday','your are genious','faster than light','your work needed success','new fan of you','keep rock dude','copy cat','link the video','listening','writing','reading','playing',] #replace with your words
 
 email = 'allyoman\n'      #replace with your gmail(use which accounts dont have 2 factor authentication)
-password = 'pass232@12\n'  #replace with your password
+password = 'pass232@12\n'  #replace with your gmail password
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver,20)
