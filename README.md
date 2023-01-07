@@ -1,13 +1,5 @@
 # Youtube-Auto-Like-Subscribe-Comments
 
-❗Currently The Project Have The Error❗
-
-The script Which Successfully auto login but when Its Open The Video The Below error occurs
-
-𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 - 𝙊𝙎𝙀𝙧𝙧𝙤𝙧: [𝙒𝙞𝙣𝙀𝙧𝙧𝙤𝙧 6] 𝙏𝙝𝙚 𝙝𝙖𝙣𝙙𝙡𝙚 𝙞𝙨 𝙞𝙣𝙫𝙖𝙡𝙞𝙙
-
-So Please Fork these Repository Or I will come back with soon.....
-
 👉Youtube Auto Like,Subscribe & Comments
 https://youtu.be/BRmMi29x3OU
 
