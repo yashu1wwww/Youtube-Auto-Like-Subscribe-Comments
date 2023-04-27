@@ -3,24 +3,29 @@
 👉Youtube Auto Like,Subscribe & Comments
 https://youtu.be/BRmMi29x3OU
 
-#Replace Email and Pass in 14th & 15th line...
+Note: Use accounts that do not have two-factor authentication.
 
-note:-use accounts which dont have 2-factor authentication...
+Change the email and password in the 14th and 15th lines.
 
-change url in url.txt file which url you required and change the cmt text if you needed to your required cmts in 11th line...
+Change the URL in the url.txt file to the URL you require and change the comment text if you need to your required comments in the 11th line.
 
-After download the folder extract it and open cmd and enter Python If You Find Python Version
+After downloading the folder, extract it and open cmd. Enter "python" if you need to find the Python version.
 
- Open cmd and enter
- pip install random 
- and hit enter button (internet connection must be on...)
- and again 
- pip install undetected_chromedriver 
- and hit enter button (internet connection must be on...)
+Open cmd and enter:
 
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
+pip install random
 
-enter lsc.py in cmd on that particular folder or double click on lsc.py....
+Hit enter (Internet connection must be on)
+
+And again, enter:
+
+pip install undetected_chromedriver
+
+Hit enter (Internet connection must be on)
+
+After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder that matches your chrome version of your PC.
+
+Enter "lsc.py" in cmd on that particular folder or double click on "lsc.py
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
