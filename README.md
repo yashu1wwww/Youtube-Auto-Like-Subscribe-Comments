@@ -9,6 +9,8 @@ Change the email and password in the 14th and 15th lines.
 
 Change the URL in the url.txt file to the URL you require and change the comment text if you need to your required comments in the 11th line.
 
+## i given 10 times comment will loop again and again if you want more
+
 After downloading the folder, extract it and open cmd. Enter "python" if you need to find the Python version.
 
 Open cmd and enter:
