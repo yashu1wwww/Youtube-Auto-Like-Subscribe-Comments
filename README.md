@@ -1,8 +1,5 @@
 # Youtube-Auto-Like-Subscribe-Comments
 
-👉Youtube Auto Like,Subscribe & Comments
-https://youtu.be/BRmMi29x3OU
-
 Note: Use accounts that do not have two-factor authentication.
 
 Change the email and password in the 14th and 15th lines.
