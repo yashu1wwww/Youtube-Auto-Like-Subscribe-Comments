@@ -1,6 +1,15 @@
 # Youtube-Auto-Like-Subscribe-Comments
 
-Note: Use accounts that do not have two-factor authentication.
+# Note: Use accounts that do not have two-factor authentication.
+
+# If These Code Having Error Means Run These..
+
+https://github.com/yashu1wwww/100-Youtube-Auto-Likes-Using-Localhost
+
+https://github.com/yashu1wwww/500-Auto-Youtube-Comments-Using-Localhost
+
+https://github.com/yashu1wwww/Youtube-Auto-Like-Subscribe-Comments
+
 
 Change the email and password in the 14th and 15th lines.
 
